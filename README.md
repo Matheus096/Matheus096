@@ -2,8 +2,7 @@
   <img src="https://i.pinimg.com/originals/4a/65/ab/4a65abeead3a8d113bccfee5d5d239f4.gif" alt="GIF" width="900" height="600" />
 </p>
 
-
-# Bem Vindo ao meu GitHub! sou o Matheus Luiz
+# Welcome to my GitHub! I'm Matheus Luiz
 
 <p align="center">
   <picture>
@@ -15,13 +14,13 @@
   <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus096&theme=dark&layout=donut" alt="Top Langs"/>
 </p>
 
-### 🚀 Sobre mim
+### 🚀 About Me
 
-- 💻 Desenvolvedor apaixonado por resolver problemas com código.
-- 🌱 Atualmente aprendendo mais sobre **Java, Hibernate, Angular** e testes com **PowerMock**.
-- 🔍 Curioso por novas tecnologias e boas práticas de programação.
+- 💻 Developer passionate about solving problems with code.
+- 🌱 Currently learning more about **Java, Hibernate, Angular**, and testing with **PowerMock**.
+- 🔍 Curious about new technologies and best coding practices.
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
@@ -34,14 +33,16 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-### 📫 Contato
 
-Quer trocar uma ideia? Me chama aqui:
+### 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
+Want to connect? Reach out here:
+
+- [LinkedIn](https://www.linkedin.com/in/matheus-luiz-ferreira-de-deus-479a82309)  
 - matheuslfdd098@gmail.com
 
 ---
 
-> "A lógica organiza o caos, e o código é a arte de transformar ideias em realidade."
+> "Logic organizes chaos, and code is the art of transforming ideas into reality."
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="GIF" />
