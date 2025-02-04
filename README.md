@@ -44,3 +44,4 @@ Quer trocar uma ideia? Me chama aqui:
 ---
 
 > "A lógica organiza o caos, e o código é a arte de transformar ideias em realidade."
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="GIF" />
