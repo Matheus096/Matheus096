@@ -40,7 +40,6 @@
 
 Want to connect? Reach out here:
 
-- [LinkedIn](https://www.linkedin.com/in/matheus-luiz-ferreira-de-deus-479a82309)  
 - matheuslfdd098@gmail.com
 
 ---
