@@ -20,7 +20,7 @@
 - 🎓 Technician in Internet Informatics and Software Engineer.
 - 🌱 Currently learning more about **Java, Hibernate, Angular**, and testing with **PowerMock**.
 - 🔍 Curious about new technologies and best coding practices.
-- My main goal is to study and acquire great knowledge to have the ability to transform the world into a better place through technological advancement and human consciousness.
+- My main goal is to study and acquire great knowledge to have the ability to transform the world into a better place through technological advancement and human consciousness
 
 ### 🛠️ Technologies & Tools
 
