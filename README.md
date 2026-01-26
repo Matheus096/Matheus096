@@ -22,6 +22,14 @@
 - 🔍 Curious about new technologies and best coding practices.
 - My main goal is to study and acquire great knowledge to have the ability to transform the world into a better place through technological advancement and human consciousness.
 
+### 🗂️ Projects
+
+- [Registration-Users-Subjects JSP](https://github.com/Matheus096/Cadastro-Usuarios-Materias)
+- [Game Catalog back end](https://github.com/Matheus096/dslist)
+- [Game Catalog front end](https://github.com/Matheus096/dslist-front)
+- [Registration-Users-Subjects JSP with maven](https://github.com/Matheus096/site-materias-maven)
+- [Optical Character Recognition](https://github.com/Matheus096/electron-tesseract-estudos)
+
 ### 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
