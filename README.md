@@ -29,6 +29,8 @@
 - [Game Catalog front end](https://github.com/Matheus096/dslist-front)
 - [Registration-Users-Subjects JSP with maven](https://github.com/Matheus096/site-materias-maven)
 - [Optical Character Recognition](https://github.com/Matheus096/electron-tesseract-estudos)
+- [Modern Portfolio Dev](https://github.com/Matheus096/devPortfolio)
+- [N8N Lead and Workflow Form](https://github.com/Matheus096/meu-formulario-leads-n8n)
 
 ### 🛠️ Technologies & Tools
 
