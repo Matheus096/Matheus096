@@ -31,6 +31,7 @@
 - [Optical Character Recognition](https://github.com/Matheus096/electron-tesseract-estudos)
 - [Modern Portfolio Dev](https://github.com/Matheus096/devPortfolio)
 - [N8N Lead and Workflow Form](https://github.com/Matheus096/meu-formulario-leads-n8n)
+- [Game Catalog Prod](https://github.com/Matheus096/dslist-prod)
 
 ### 🛠️ Technologies & Tools
 
